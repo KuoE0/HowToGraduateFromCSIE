@@ -16,11 +16,11 @@ body {
 
 a:link, a:visited, a:active {
 	color: #FDF6E3;
+	font-weight: normal;
 }
 
 a:hover {
 	color: #012B36;
-
 }
 
 h1 {
