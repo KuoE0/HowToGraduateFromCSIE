@@ -1,0 +1,73 @@
+/*
+ * style.css
+ * Copyright (C) 2014 KuoE0
+ *
+ * Distributed under terms of the MIT license.
+ */
+
+body {
+	color: #EEE8D5;
+	font-weight: 100;
+	font-size: 1em;
+}
+
+.section {
+	text-align: center;
+	padding: 2% 0 0 0;
+	font-size: 1.8rem;
+}
+
+/* home section */
+#home-section {
+	background: url('img/title-bg.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	padding-top: 15%;
+}
+
+/* navigation menu */
+#menu {
+	position: fixed;
+	height: 40px;
+	z-index: 100;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+#menu li {
+	display: inline-block;
+	margin: 10px 5px;
+	border-radius: 10px;
+	background: rgba(255, 255, 255, 0.5);
+}
+
+#menu li a {
+	color: black;
+	padding: 10px;
+	text-decoration: none;
+}
+
+#menu li.active {
+	background: rgba(0, 0, 0, 0.5);
+}
+
+#menu li.active a {
+	color: white;
+}
+
+/* footer */
+#footer{
+	position:fixed;
+	height: 30px;
+	display:block;
+	width: 100%;
+	background: #333;
+	z-index:9;
+	text-align:center;
+	color: #f2f2f2;
+	bottom:0px;
+}
+
