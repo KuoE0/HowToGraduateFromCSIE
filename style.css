@@ -14,6 +14,15 @@ body {
 	font-size: 1em;
 }
 
+a:link, a:visited, a:active {
+	color: #FDF6E3;
+}
+
+a:hover {
+	color: #012B36;
+
+}
+
 .section {
 	text-align: center;
 	padding: 2% 0 0 0;
@@ -24,15 +33,28 @@ body {
 	-o-background-size: cover;
 }
 
-/* home section & congrat section */
 #home-section {
 	background-image: url('img/title-bg.jpg');
 	padding-top: 15%;
 }
 
+#oral-applying-section {
+	background-color: #DC322F;
+}
+
 #congrat-section {
 	background-image: url('img/title-bg.jpg');
 	padding-top: 15%;
+}
+
+
+p.note {
+	margin: 0;
+	font-size: 1rem;
+}
+
+.item {
+	margin: 0.5rem;
 }
 
 /* navigation menu */
