@@ -50,6 +50,10 @@ a:hover {
 	background-color: #B58901;
 }
 
+#paper-section {
+	background-color: #859901;
+}
+
 #congrat-section {
 	background-image: url('img/title-bg.jpg');
 	padding-top: 15%;
