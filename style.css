@@ -5,9 +5,12 @@
  * Distributed under terms of the MIT license.
  */
 
+* {
+	font-weight: 100;
+}
+
 body {
 	color: #EEE8D5;
-	font-weight: 100;
 	font-size: 1em;
 }
 
