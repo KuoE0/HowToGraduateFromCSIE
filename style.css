@@ -23,6 +23,24 @@ a:hover {
 
 }
 
+h1 {
+	font-size: 4rem;
+}
+
+h2 {
+	font-size: 3rem;
+}
+
+#title {
+	font-size: 6rem;
+}
+
+#subtitle {
+	color: #EEE8D5;
+	font-size: 3rem;
+	background: rgba(0, 0, 0, 0.5);
+}
+
 .section {
 	text-align: center;
 	padding: 2% 0 0 0;
