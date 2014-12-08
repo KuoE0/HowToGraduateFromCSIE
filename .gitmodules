@@ -1,3 +1,6 @@
 [submodule "lib/fullPage.js"]
 	path = lib/fullPage.js
 	url = git@github.com:alvarotrigo/fullPage.js.git
+[submodule "lib/normalize.css"]
+	path = lib/normalize.css
+	url = git@github.com:necolas/normalize.css.git
