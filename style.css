@@ -58,6 +58,10 @@ a:hover {
 	background-color: #2AA198;
 }
 
+#appendix-section {
+	background-color: #268BD2;
+}
+
 #congrat-section {
 	background-image: url('img/title-bg.jpg');
 	padding-top: 15%;
