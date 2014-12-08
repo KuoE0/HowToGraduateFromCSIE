@@ -18,15 +18,20 @@ body {
 	text-align: center;
 	padding: 2% 0 0 0;
 	font-size: 1.8rem;
-}
-
-/* home section */
-#home-section {
-	background: url('img/title-bg.jpg') no-repeat center center fixed;
+	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
-	background-size: cover;
+}
+
+/* home section & congrat section */
+#home-section {
+	background-image: url('img/title-bg.jpg');
+	padding-top: 15%;
+}
+
+#congrat-section {
+	background-image: url('img/title-bg.jpg');
 	padding-top: 15%;
 }
 
