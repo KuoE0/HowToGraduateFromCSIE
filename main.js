@@ -11,8 +11,12 @@ $(document).ready(function() {
 		anchors: ['home', 'oral-applying', 'before-oral', 'on-oral', 'after-oral', 'paper', 'leave', 'appendix', 'congrat'],
 
 		menu: '#menu',
-		scrollingSpeed: 200,
-		verticalCentered: false
+		scrollingSpeed: 100,
+		verticalCentered: false,
+		slidesNavigation: true,
+
+		easingcss3: 'linear'
+
 	});
 });
 
