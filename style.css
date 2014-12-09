@@ -68,8 +68,12 @@ h2 {
 	background-color: #B58901;
 }
 
+#after-oral-section {
+	background-color: #6C71C4;
+}
+
 #paper-section {
-	background-color: #859901;
+	background-color: #268BD2;
 }
 
 #leave-section {
@@ -77,7 +81,7 @@ h2 {
 }
 
 #appendix-section {
-	background-color: #268BD2;
+	background-color: #859901;
 }
 
 #congrat-section {

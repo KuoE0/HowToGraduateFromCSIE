@@ -8,7 +8,7 @@
 
 $(document).ready(function() {
     $('#fullpage').fullpage({
-		anchors: ['home', 'oral-applying', 'before-oral', 'on-oral', 'paper', 'leave', 'appendix', 'congrat'],
+		anchors: ['home', 'oral-applying', 'before-oral', 'on-oral', 'after-oral', 'paper', 'leave', 'appendix', 'congrat'],
 
 		menu: '#menu',
 		scrollingSpeed: 200,
